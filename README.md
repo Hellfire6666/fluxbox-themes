@@ -1,4 +1,4 @@
 fluxbox-themes
 ==============
 
-Elberg Fluxbox Theme
+My Fluxbox themes
